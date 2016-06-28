@@ -1,0 +1,11 @@
+{
+  "name": "pirate-translator-twitter-bot",
+  "version": "0.0.1",
+  "description": "Twitter bot that translates English to Pirate for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "glcheetham",
+  "license": "MIT"
+}
